@@ -16,7 +16,7 @@
     "@injectivelabs/ts-types": "^1.14.6",
     "@injectivelabs/networks": "^1.14.6",
     "@injectivelabs/utils": "^1.14.6",
-    "@injectivelabs/wallet-ts": "^1.14.6"
+    "@injectivelabs/wallet-ts": "1.14.11-beta.3"
   },
   "devDependencies": {
     "typescript": "^5",
